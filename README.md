@@ -1,5 +1,6 @@
 # forest
-FOREST: FORest ESTimator <a href="https://doi.org/10.5281/zenodo.2595763"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.2595763.svg" alt="DOI"></a>
+FOREST: FORest ESTimator 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2595763.svg)](https://doi.org/10.5281/zenodo.2595763)
 
 
 What is it?
@@ -22,3 +23,5 @@ The Interface
 4.	The picture statistics consists of the quantitative pixel data of the image. It includes pixel count, percent cover, pix height and pix width.
 5.	Analyze image button will trigger picture analysis and displaying statistics.
 6.	Threshold can be adjusted if you want more/less sensitivity of thresholding.
+
+![ScreenShot](https://github.com/safranyusri/forest/blob/master/samplepics/forest.png)
