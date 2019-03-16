@@ -1,5 +1,6 @@
 # forest
-FOREST: FORest ESTimator
+FOREST: FORest ESTimator <a href="https://doi.org/10.5281/zenodo.2595763"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.2595763.svg" alt="DOI"></a>
+
 
 What is it?
 Forest is a simple image analysis program designed to estimate forest canopy cover based on photographs taken from below. It is intended to speed up vegetation analysis process especially the estimation of forest canopy cover.
@@ -21,4 +22,3 @@ The Interface
 4.	The picture statistics consists of the quantitative pixel data of the image. It includes pixel count, percent cover, pix height and pix width.
 5.	Analyze image button will trigger picture analysis and displaying statistics.
 6.	Threshold can be adjusted if you want more/less sensitivity of thresholding.
-<a href="https://doi.org/10.5281/zenodo.2595763"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.2595763.svg" alt="DOI"></a>
